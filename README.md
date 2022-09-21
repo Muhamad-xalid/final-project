@@ -1,3 +1,0 @@
--useing react js to create this website
--using css to design this website with out using frameworks
--using advice api in this website
