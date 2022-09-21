@@ -17,15 +17,15 @@
 }
 
 .card {
-  background: whitesmoke;
+  background: rgb(245, 245, 245);
   width: 40%;
-  height: 20%;
+  height: 25%;
   display: flex;
   align-items: center;
   flex-direction: column;
   border-radius: 25px;
   padding: 2%;
-  box-shadow: 10px 10px;
+  
 }
 
 .heading {
@@ -47,7 +47,7 @@
   height: 200px;
   width: 210px;
   opacity: 1;
-  background-color: #ffffff;
+  background-color: #245f8f;
   border: 1px solid rgba(22, 76, 167, 0.6);
 }
   
@@ -56,10 +56,11 @@
   font-size: 12px;
   font-weight: 500;
   letter-spacing: 0.7px;
+  color: white;
 }
   
 .button:hover {
-  animation: rotate 0.7s ease-in-out both;
+  animation: rotate 0.2s ease-in-out both;
 }
   
 .button:hover span {
